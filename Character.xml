@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<charList>
+	<Character ID="1" Title="Mr." First="Andrew" Middle="Leon" Last="Nielson">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="2" Title="Mrs." First="Barbara" Middle="Rose" Last="Oliver">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="3" Title="Mr." First="Christopher" Middle="Campbell" Last="Cullen">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="4" Title="Mrs." First="Daniela" Middle="Tara" Last="Scoffield">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="5" Title="Ms." First="Ebony" Middle="Zariah" Last="Ferguson">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="6" Title="Mr." First="Freddie" Middle="Nolan" Last="Yankton">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="7" Title="Ms." First="Giselle" Middle="Vivian" Last="Ubert">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="8" Title="Mrs." First="Harriet" Middle="Madison" Last="Darwin">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="9" Title="Ms." First="Isabelle" Middle="Trinity" Last="Emerson">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="10" Title="Mr." First="Jackson" Middle="Isaiah" Last="Hawkins">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="11" Title="Mrs." First="Jasmine" Middle="Kailey" Last="Louis">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="12" Title="Mr." First="Kent" Middle="Byron" Last="Zimmerman">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="13" Title="Mrs." First="Lucy" Middle="Anne" Last="Jackson">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="14" Title="Mr." First="Marcus" Middle="Elliott" Last="Archer">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="15" Title="Mr." First="Nathan" Middle="Melvin" Last="Tyrian">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="16" Title="Ms." First="Olivia" Middle="Theresa" Last="Xiang">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="17" Title="Mr." First="Percy" Middle="Brock" Last="Quinn">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="18" Title="Mr." First="Quentin" Middle="Jarvis" Last="Kopp">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="19" Title="Ms." First="Rosie" Middle="Jean" Last="Graham">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="20" Title="Mr." First="Rusty" Middle="Andrew" Last="Martin">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="21" Title="Mr." First="Sammy" Middle="Lee" Last="Jones">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="22" Title="Mrs." First="Tammy" Middle="Lou" Last="Peterson">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="23" Title="Mrs." First="Ursula" Middle="Quinn" Last="Rodriguez">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="24" Title="Ms." First="Violet" Middle="Penelope" Last="Winston">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="25" Title="Mr." First="Walter" Middle="Franklin" Last="Idler">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="26" Title="Mr." First="Xavier" Middle="Jaden" Last="Sanderson">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="27" Title="Mr." First="Yancy" Middle="Russell" Last="Vance">
+		<Pronouns Nominative="he" Objective="him" Posessive="his" />
+		<Bio></Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+	<Character ID="28" Title="Ms." First="Zoe" Middle="Marie" Last="Blake">
+		<Pronouns Nominative="she" Objective="her" Posessive="hers" />
+		<Bio>
+			Zoe Blake is a sweet old lady who has traveled the world on multiple occasions. Is she as sweet as she looks, or does she have a dark side?
+		</Bio>
+		<Images>
+			<Afraid></Afraid>
+			<Angry></Angry>
+			<Confused></Confused>
+			<Excited></Excited>
+			<Happy></Happy>
+			<Icon></Icon>
+			<Sad></Sad>
+			<Surprise></Surprise>
+		</Images>
+	</Character>
+</charList>

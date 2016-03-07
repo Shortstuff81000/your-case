@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>YourCase - A Single Player Clue Game</title>
+	<link rel="stylesheet" href="Styles/SiteLayout.css" />
+	<link rel="stylesheet" href="Content/themes/base/all.css" />
+	<script type="text/javascript" src="YourCase3.js"></script>
+	<script src="Scripts/jquery-2.2.1.js" type="text/javascript"></script>
+	<script src="Scripts/jquery-ui-1.11.4.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('#Setting').hide();
+			$('#Friends').hide();
+			$("#BTN_Player").click(function () {
+				$("#ChoosePlayer").html("Please wait...");
+				$.ajax({
+					url: "Character.xml",
+					type: "GET",
+					dataType: "xml",
+					success: OnSuccess,
+					error: OnError
+				});
+			});
+		});
+
+		function OnSuccess(xml) {
+			var listContent = '<div id="PlayerPicker">';
+			$(xml).find('Character').each(function () {
+				listContent += '<input type="radio" id="RB_' + $(this).attr('First') + $(this).attr('Last') + '" name="player" class="ui-button-text" style="background-color: transparent;"><label for="RB_' + $(this).attr('First') + $(this).attr('Last') + '">' + $(this).attr('Title') + ' ' + $(this).attr('First') + ' ' + $(this).attr('Middle').charAt(0) + '. ' + $(this).attr('Last') + '</label>';
+			});
+			listContent += '</div>';
+			$('#ChoosePlayer').html(listContent);
+			$('#PlayerPicker').buttonset();
+		}
+
+		function OnError(data) {
+			$("#ChoosePlayer").html("Error! Please try again.");
+		}
+
+
+	</script>
+	<meta charset="utf-8" />
+</head>
+<body>
+	<form class="new" method="post">
+		<div id="Wrapper">
+			<div id="Title">
+				<h1>YourCase</h1>
+				<h2>A Choose your Own Adventure Story where You play the Detective!</h2>
+			</div>
+			<div id="story">
+				<div id="Intro">
+					<h3>Introduce Yourself</h3>
+					<p>
+						Thank you for playing YourCase - a Choose Your Own Adventure Story! Please select your avatar. Each character has a curious bio and story, but your selection will not affect the story.
+					</p>
+					<div id="ChoosePlayer" style="margin: 0 auto;">
+						<button id="BTN_Player" type="button">Select Your Character</button>
+					</div>
+				</div>
+				<div id="Setting">
+					<h3>It's Time to Party!</h3>
+				</div>
+				<div id="Friends">
+					<p>You are planning a small get-together with four of your best friends.</p>
+				</div>
+			</div>
+		</div>
+	</form>
+</body>
+</html>
