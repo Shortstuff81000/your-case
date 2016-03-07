@@ -40,6 +40,7 @@ YourCase is a choose your own adventure game based on Clue, only with a lot more
 
 ## GRAPHICS
 If you've checked out my XML, you're probably wondering "What the heck are all of these emotion elements wrapped in image elements for?" and "Why are there so many of them?". That's a good question. The answer is because it goes toward my goal of telling a semi-realistic story. If a sentence is upsetting, an angry or sad image will be loaded; if a sentence is exciting or the person speaking is happy, an excited or happy image will be displayed. There are three different image categories in the game:
+
 	- Character - Character images are laid over Setting images, and will appear at a random X position.
 	- Setting - Images for the setting and its four areas.
 	- Weapon/Clue - Clues and weapons will be laid over the center of the Setting image, but their position will be fixed to the exact center of the Setting image.
